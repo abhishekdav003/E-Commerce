@@ -20,6 +20,11 @@ app.use("/api", router);
 
 const PORT = 8080 || process.env.PORT;
 
+// Health Check Route
+app.get("/", (req, res) => {
+    res.send("✅ Backend is running successfully!");
+});
+
 connectDB().then(() => {
   app.listen(PORT, () => {
     console.log("connnect to DB");
