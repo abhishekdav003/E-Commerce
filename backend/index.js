@@ -9,7 +9,7 @@ const router = require("./routes");
 const app = express();
 app.use(
   cors({
-    origin:process.env.FRONTEND_URL,
+    origin:"https://e-commerce-tau-teal-70.vercel.app",
     credentials: true,
   })
 );
