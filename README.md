@@ -1,4 +1,5 @@
-﻿# My Ecommerce Project
+﻿# ![Screenshot 2025-03-25 113901](https://github.com/user-attachments/assets/aa70aa62-5d4e-428b-81dd-44b6b875dc82)
+My Ecommerce Project
 
  # 🛒 MERN E-Commerce App
 
