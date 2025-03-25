@@ -38,6 +38,17 @@ An elegant and fully functional **E-Commerce Web Application** built using the *
 
 > Make sure you have **Node.js** and **MongoDB** installed.
 
+
+👨‍💻 Author
+Abhishek Kumar
+
+📧 abhishekdav648@gmail.com
+
+💼 LinkedIn - https://www.linkedin.com/in/abhishekr03/
+
+🖥️ GitHub - https://github.com/abhishekdav003
+
+
 ### 🔽 Clone the Repository
 
 ```bash
@@ -60,16 +71,4 @@ npm run dev
 
 cd frontend
 npm install
-npm start
-
-👨‍💻 Author
-Abhishek Kumar
-
-📧 abhishekdav648@gmail.com
-
-💼 LinkedIn - https://www.linkedin.com/in/abhishekr03/
-
-🖥️ GitHub - https://github.com/abhishekdav003
-
-
-
+npm start 
